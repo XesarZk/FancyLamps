@@ -1,0 +1,25 @@
+####Traducido por Xesar_Zk####
+
+##Blocks##
+tile.pillar.name=Arcane Pillar
+tile.post.name=Arcane Post
+tile.ender_gem.name=Crystalline Ender Gem
+tile.arcane_base.name=Base Arcana
+tile.arcane_base_chisel.name=Base Arcana Cincelada
+
+##Lamps##
+arcane_gem_blank.name=Gema Arcana
+arcane_gem_corrupt.name=Gema Arcana Corrupta
+arcane_gem_crimson.name=Gema Arcana Carmesí
+arcane_gem_purity.name=Gema Arcana Pura
+arcane_gem_rainbow.name=Gema Arcana Arcoiris
+obelisk_blank.name=Obelisco
+obelisk_corrupt.name=Obelisco Corrupto
+obelisk_crimson.name=Obelisco Carmesí
+obelisk_purity.name=Obelisco Puro
+obelisk_rainbow.name=Obelisco Arcoiris
+lamp_blank.name=Lampara
+lamp_corrupt.name=Lampara Corrupta
+lamp_crimson.name=Lampara Carmesí
+lamp_purity.name=Lampara Pura
+lamp_rainbow.name=Lampara Arcoiris
